@@ -1,2 +1,3 @@
-# jcsim-elm
-Join Calculus simulator
+Join Calculus Simulator
+=================
+
